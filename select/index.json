@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "令和",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-10T07:16:32.126072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "令和",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/01_令和_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "令和",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/02_令和_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "令和",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_令和_ゴールデンボンバー.txt"
+    }
+  ]
+}
